@@ -15,5 +15,3 @@
 **Run Tests**
 
 `npm run test`
-
-- Allure reports will automatically be opened
